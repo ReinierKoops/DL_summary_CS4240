@@ -1,2 +1,1 @@
-torchsummary
 torchinfo
